@@ -68,7 +68,7 @@ h2 {
 
 
 @media screen and (min-width: 575px) {
-  .preview-baku .preview-london .preview-madrid .preview-rome {
+  .preview-baku, .preview-london, .preview-madrid, .preview-rome {
     margin: 1%;
     width: 48%;
     height: 250px;
@@ -81,9 +81,9 @@ h2 {
 }
 
 @media screen and (min-width: 991px) {
-  .preview-baku .preview-london .preview-madrid .preview-rome {
+  .preview-baku, .preview-london, .preview-madrid, .preview-rome {
     margin: 1%;
-    width: 48%;
+    width:23%;
     height: 150px;
     float: left;
 
